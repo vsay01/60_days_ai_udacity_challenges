@@ -25,5 +25,5 @@
 Google Colab: https://drive.google.com/file/d/1sWSBwVXrn6xyGT54fi0It_pYNjswhRwa/view?usp=sharing
 
 Demo: 
-- I chosee MNASNET trained model to a sample android application to test this out. This model give more accuracy and smaller size.
+- I deployed MNASNET trained model to a sample android application to test this out. This model give more accuracy and smaller size.
 https://youtu.be/aj2QxFSw9lc
