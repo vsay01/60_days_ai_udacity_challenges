@@ -1,0 +1,3 @@
+- Working on dog breed classification on large dataset
+- Use pre-trained model MNASNET and MobileV2
+  - The results only around 64% still try to find ways to improve these model
