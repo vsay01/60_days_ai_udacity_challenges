@@ -1,0 +1,1 @@
+- working on sample Android project written in Kotlin that contained deployed training PyTorch model
