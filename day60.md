@@ -1,0 +1,1 @@
+- Learn Word Embeddings part of NLP course in [Kaggle](https://www.kaggle.com/learn/natural-language-processing)
