@@ -1,0 +1,2 @@
+- working on CNNs project
+- continue review lesson 3
